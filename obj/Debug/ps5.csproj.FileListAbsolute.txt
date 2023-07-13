@@ -1,0 +1,8 @@
+D:\ps\ps5\ps5\obj\Debug\ps5.csproj.AssemblyReference.cache
+D:\ps\ps5\ps5\obj\Debug\ps5.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps5\ps5\obj\Debug\ps5.csproj.CoreCompileInputs.cache
+D:\ps\ps5\ps5\bin\Debug\ps5.exe.config
+D:\ps\ps5\ps5\bin\Debug\ps5.exe
+D:\ps\ps5\ps5\bin\Debug\ps5.pdb
+D:\ps\ps5\ps5\obj\Debug\ps5.exe
+D:\ps\ps5\ps5\obj\Debug\ps5.pdb
